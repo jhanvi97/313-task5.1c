@@ -1,0 +1,17 @@
+.titlebar{
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+.Tutorial {
+    padding-bottom: 10px;
+}
+.web{
+    font-size: 20px;
+}
+.center-button {
+    display: flex;
+  justify-content: center; 
+  align-items: center; 
+  margin-top: 20px; 
+  padding-right: 20px; 
+  }

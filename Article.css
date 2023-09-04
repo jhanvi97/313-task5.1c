@@ -1,0 +1,16 @@
+.space{
+    padding: 10px;
+}
+.column {
+    padding-bottom: 10px;
+}
+.line{
+    padding-top: 10px;
+}
+.center-button {
+    display: flex;
+  justify-content: center; 
+  align-items: center; 
+  margin-top: 20px; 
+  padding-right: 20px; 
+  }
